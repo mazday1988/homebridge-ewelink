@@ -9,7 +9,7 @@ var isSocketOpen = false;
 var sequence = 0;
 var webClient = '';
 var apiKey = 'UNCONFIGURED';
-var authenticationToken = 'UNCONFIGURED';
+var authenticationToken = '76bc07bb6932c3ec3af6117a0c1a318bed444888';
 var Accessory, Service, Characteristic, UUIDGen;
 
 module.exports = function(homebridge) {
